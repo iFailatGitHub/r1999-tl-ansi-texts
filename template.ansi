@@ -1,0 +1,70 @@
+30 - black
+31 - red (attack/beast)
+32 - green (heal/plant)
+33 - yellow (counter/channel/mineral/intellect)
+34 - blue (buff/star)
+35 - magenta (debuff/spirit)
+36 - cyan (force field/array)
+37 - white
+
+[1;37m<Unit Name>[0m
+[1;37m<Unit Name> (LIMITED!/Free[0;1;37m)[0m
+[1;37m<Afflatus>, <Rarity>✦[0m
+
+[1;37mInsight:[0m
+[1;37mI1:[0m
+
+[1;37mSkills[0m
+[1;37mS1:[0m
+ϕ <Rank 1 Line>[0m
+[37mϕ <Rank 2 Line>[0m
+[33mϕ <Rank 3 Line>[0m
+
+<Single Stat>[0m
+<Rank 1 Stat>[0m/[37m<Rank 2 Stat>[0m/[33m<Rank 3 Stat>[0m
+
+[1;37mS2:[0m
+
+[1;37mUlt:[0m
+[37mϕ <Ult Line>[0m
+
+[1;37mPortrays[0m
+
+[1;37mP1:[0m
+
+[1;37mP2:[0m
+
+[1;37mP3:[0m
+
+[1;37mP4:[0m
+
+[1;37mP5:[0m
+
+[37m[<General Status>][0m
+[1;37m[<Skill>][0m
+[1;37m[<Ultimate>[0;1;37m][0m
+
+[1;37mPsychube : <name>[0m
+[1;37m        ATK : [0m<I. Atk>  -> [1m<F. Atk>[0m
+[1;37m         HP : [0m<I. HP>   -> [1m<F. HP>[0m
+[1;37mReality DEF : [0m<I. RDef> -> [1m<F. RDef>[0m
+[1;37m Mental DEF : [0m<I. MDef> -> [1m<F. MDef>[0m
+[1;37m<Main Stat>[0;1;37m : [0m<I. MS>%  -> [1m<F. MS>%[0m
+
+<A1>%/<A2>%/<A3>%/<A4>%/<A5>%
+
+[31m[Bloodtithe][0m
+[34m[Inspiration][0m
+[33m[Dynamo][0m
+
+[1;37mx.y Euphoria[0m
+[1;37m<Character Name>[0m
+[1;37m<Euphoria>[0m
+
+[1;37mRank I:[0m
+[1;37mRank II:[0m
+[1;37mRank III:[0m
+[1;37mRank IV:[0m
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m

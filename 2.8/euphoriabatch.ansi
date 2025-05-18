@@ -1,0 +1,78 @@
+[1;37m2.8 Euphoria[0m
+[1;37mLucy[0m
+[1;37mDawn Shall Arrive At The End Of The Stairs[0m
+[1;37mRank I:[0m If [36m[Pulsing Electric Field][0m is not active at the start of turn, activate [36m[Pulsing Electric Field Lv. 1][0m.
+After releasing a reinforced incantation, funnel at most [37m10[0m [33m[Dynamo][0m into [36m[Pulsing Electric Field][0m.
+
+[1;37mRank II:[0m When entering battle, receives [37m20[0m [33m[Dynamo][0m.
+After reinforcing an incantation, receive [37m1[0m stack of [34m[Data Iteration][0m.
+
+[1;37mRank III:[0m Receives [34m[Electric Amp][0m.
+- [34m[Electric Amp]:[0m When entering [36m[Pulsing Electric Field Lv. 3][0m, acquire [37m2[0m stacks of [34m[Overcharged Ammunition][0m, and when attack crits in [36m[Pulsing Electric Field Lv. 3][0m, also receive [37m1[0m stack of [34m[Overcharged Ammunition][0m.
+
+[1;37mRank IV:[0m Reinforcing incantations no longer consumes [33m[Dynamo][0m. When an enemy is defeated, no longer acquires [33m[Dynamo][0m.
+When in [36m[Pulsing Electric Field Lv. 1/2/3][0m, reinforced incantation deals extra [37m50%[0m/[37m70%[0m/[37m120%[0m reality DMG of the base [31m[Conservation of Energy][0m DMG. 
+When in [36m[Pulsing Electric Field Lv.3][0m, for each stack of [33m[Dynamo][0m, reinforced incantations deal an extra [37m8%[0m reality DMG.
+Reinforced incantations enjoy [37m100%[0m ultimate might, and each stack of [34m[Data Iteration][0m increases the effect of ultimate might by [37m10%[0m.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
+
+[1;37m2.8 Euphoria[0m
+[1;37mRegulus[0m
+[1;37mShine Like Regulus[0m
+
+[1;37mRank I:[0m Receives [37m5[0m max Eureka. When entering battle, gain [37m4[0m Eureka. When allies consume Eureka, accumulate points of [34m[Inspiration][0m.
+When entering battle, accumulate [37m3[0m points of [37m[Inspiration][0m. From the start of the next turn onwards, acquires a preparation incantation [37m[Long Live Rock!][0m every start of turn.
+When entering battle, receives [34m[Restless Heart][0m. [34m[Restless Heart][0m is now dispelled when attacks do not crit.
+Insight III changes to: If under [34m[Restless Heart][0m at the start of battle, gain [37m1[0m stack of [34m[Sturdiness][0m.
+- [37m[Long Live Rock!][0m: Add the highest points of [34m[Inspiration][0m from the unused incantations last turn into the [34m[Impromptu Incantation][0m of this turn.
+
+[1;37mRank II:[0m Consume [37m2[0m Eureka after releasing [31m[Treat For The Ears][0m and [31m[Challenge For The Eyes][0m to increase [34m[Impromptu Incantation][0m number of attacks by [37m1[0m.
+
+[1;37mRank III:[0m After Ulting, add [37m8[0m points of [34m[Inspiration][0m to the [34m[Impromptu Incantation][0m of this turn.
+
+[1;37mRank IV:[0m At the start of turn, the main target of the first attack dealt by the unit immediately placed before Regulus will also inflict [35m[Rock Focus][0m for [37m1[0m turns.
+- [35m[Rock Focus]:[0m [34m[Impromptu Incantation][0m's attacks will prioritize this target.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
+
+[1;37m2.8 Euphoria[0m
+[1;37mJessica[0m
+[1;37mThe Stories Shall Be Woven With Twigs[0m
+
+[1;37mRank I:[0m When entering battle and every [37m3[0m turns (i.e. turn 1, 3, 6, 9...), inflict [35m[Fungal Invasion][0m on enemies for [37m3[0m turns.
+- [35m[Fungal Invasion]:[0m At the start of turn, resolve [37m1[0m turn of [35m[Poison][0m. This will not decrease the duration of [35m[Poison][0m.
+
+[1;37mRank II:[0m After Ult hits, immediately resolve all [35m[Poison][0m on enemies.
+
+[1;37mRank III:[0m After [31m[White Blankie][0m and [31m[Good Friends][0m hit, inflict [37m2[0m [35m[Poison][0m for [37m2[0m turns, which deals [37m30% * ATK[0m genesis DMG at the end of turn. 
+At the end of turn, if an enemy has over [37m5[0m [35m[Poison][0m, release a rank 1 [31m[White Blankie][0m to the enemy with the highest percentage of HP and gain [37m1[0m moxie.
+
+[1;37mRank IV:[0m [35m[Fungal Invasion][0m now includes the following: Increase DMG taken from [35m[Poison][0m by [37m10%[0m. When [35m[Poison][0m is resolved on self, acquire [37m1[0m layer of [35m[Fungus][0m for [37m4[0m turns.
+When inflicting [35m[Fungal Invasion][0m, for every number of stacks of [35m[Fungus][0m, inflict [37m1[0m [35m[Poison][0m that lasts for [37m2[0m turns. Then, remove [35m[Fungus][0m.
+- [35m[Fungus]:[0m Jessica can turn it into [35m[Poison][0m. Can stack up to 4 stacks.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
+
+[1;37m2.8 Euphoria[0m
+[1;37mSemmelweis[0m
+[1;37mCrimson Like A Thousand Moons[0m
+
+[1;37mRank I:[0m When allies lose HP, accumulate [31m[Bloodtithe][0m.
+When entering battle, self max HP increase by [37m50%[0m. All other allies also increase max HP equal to [37m10%[0m Semmelweis' max HP.
+
+[1;37mRank II:[0m [34m[Effective Means][0m also gives: Further increase DMG dealt by allies with [34m[Fresh Blood][0m by [37m10%[0m for [37m3[0m turns.
+[33m[Fresh Blood][0m turns into: After action, lose [37m10%[0m current HP. Increase crit rate and crit DMG by [37m20%[0m.
+
+[1;37mRank III:[0m For every [37m8[0m [31m[Bloodtithe][0m accumulated, increase self moxie by [37m1[0m.
+[31m[Truth Tevealed][0m additionally deals [37m100%[0m reality DMG scaling with [37m30%[0m max HP, as well as increase [31m[Bloodtithe][0m by [37m2[0m.
+
+[1;37mRank IV:[0m [36m[Blood Domain][0m also gives: All allies receives [37m10%[0m extra healing. For every [37m10%[0m HP allies have lost, further increases healing by [37m4%[0m to a maximum of [37m32%[0m.
+When under [36m[Blood Domain][0m, if [31m[Bloodtithe][0m maximum reaches [37m50[0m/[37m70[0m, all allies lose [37m5%[0m HP after each action, and DMG increases for follow-up attacks by [37m15%[0m/[37m30%[0m.
+Allies with [33m[Fresh Blood][0m also increases DMG for follow-up attacks by [37m10%[0m/[37m20%[0m.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m

@@ -1,0 +1,68 @@
+[1;37mUlrich ([4mFree[0;1;37m)[0m
+[1;33mIntellect, 6✦[0m
+[1;37mInsight: Primal Pulse[0m
+[1;37mI1:[0m Receives [34m[Electric Amp][0m. When entering battle, receives [37m20[0m [33m[Dynamo][0m.
+If [36m[Pulsing Electric Field][0m is not active at the start of turn, activate [36m[Pulsing Electric Field Lv. 1][0m.
+At the end of turn, receives [37m5[0m [33m[Dynamo][0m and funnel at most  [37m15[0m [33m[Dynamo][0m into [36m[Pulsing Electric Field][0m.
+At the end of turn, release [31m[Peak Voltage][0m once. Ultimate does not count towards the Spelldock limit.
+
+- [31m[Peak Voltage]:[0m Mass [37m150%[0m reality DMG to all enemies. Further deals extra reality DMG by [37m15%[0m per stack of [34m[Encryption Key][0m on [36m[Structure Analysis][0m and [36m[Frequency Analysis][0m, and this attack will enjoy ultimate might increase.
+- [34m[Electric Amp][0m: When entering [36m[Pulsing Electric Field Lv. 3][0m, immediately gain [37m3[0m moxie, and all [36m[Analysis][0m statuses gain [37m5[0m stacks of [34m[Encryption Key][0m. When in [36m[Pulsing Electric Field Lv. 3][0m or after entering any [36m[Analysis][0m status, immediately gain [37m5[0m stacks of [34m[Encryption Key][0m, and each [34m[Encryption Key][0m for [36m[Supercomputer Analysis][0m increases its reality DMG by [37m100%[0m.
+
+[1;37mI2:[0m When entering battle, increase DMG Dealt by [37m8%[0m.
+
+[1;37mI3:[0m At the end of turn, Ulrich will accumulate [37m1[0m stack of [34m[Encryption Key][0m to his [36m[Analysis][0m status and [37m5[0m stack of [33m[Dynamo][0m each time [33m[Dynamo][0m is funneled this turn.
+
+[1;37mUlrich ([4mFree[0;1;37m)[0m
+[1;33mIntellect, 6✦[0m
+[1;37mSkills[0m
+[1;36mS1: Detection Mode[0m
+ϕ A foolish bug.
+[37mϕ A foolish bug. I have prepared 46 pages of how to fix it.[0m
+[33mϕ A foolish bug. The LSCC needs to update the 385 pages that is affected by it.[0m
+Self channel. Enter [36m[Structure Analysis][0m for  [37m3[0m turns. If already in [36m[Structure Analysis][0m, gain 6/[37m8[0m/[33m10[0m stacks of [34m[Ceremonious: Ultimate Might][0m, and funnel at most [37m5[0m [33m[Dynamo][0m into [36m[Pulsing Electric Field][0m.
+- [36m[Structure Analysis]:[0m At the start of turn, if Ulrich still has this status, decrease DMG Resist by [37m30%[0m on all enemies for [37m1[0m turn. Further decrease DMG Resist by [37m4%[0m per [34m[Encryption Key][0m, to a maximum of [37m10[0m stacks. [34m[Encryption Key][0m on each status is counted independently.
+- [34m[Ceremonious: Ultimate Might]:[0m Increase Ultimate Might on Ultimates by [37m3%[0m to a maximum of [37m100[0m stacks. Cannot be dispelled. All consumed after Ultimate deals DMG.
+
+[1;36mS2: Brown Note[0m
+ϕ A low frequency noise.
+[37mϕ A low frequency noise, as the ferrofluid in the tank relax and float.[0m
+[33mϕ A low frequency noise, as the thought in the tank sparkles.[0m
+Self channel. Enter [36m[Frequency Analysis][0m for 3 turns. If already in [36m[Frequency Analysis][0m, gain 6/[37m8[0m/[33m10[0m stacks of [34m[Ceremonious: Ultimate Might][0m, and funnel at most [37m5[0m [33m[Dynamo][0m into [36m[Pulsing Electric Field][0m.
+- [36m[Frequency Analysis]:[0m At the start of turn, if Ulrich still has this status, increase Ultimate Might by [37m30%[0m on all allies. Further increase Ultimate Might by [37m4%[0m per [34m[Encryption Key][0m, to a maximum of [37m10[0m stacks. [34m[Encryption Key][0m on each status is counted independently.
+
+[1;36mUlt: The Sum Of Infinite Calculations[0m
+[37mϕ The truth is usually held in the brain-hands of the minority.[0m
+Self Channel. Enter [36m[Supercomputer Analysis][0m for 1 turn, increase the duration of [36m[Structure Analysis][0m and [36m[Frequency Analysis][0m by 1 turn, receives [37m30[0m [33m[Dynamo][0m and funnel at most [37m30[0m into [36m[Pulsing Electric Field][0m.
+- [36m[Supercomputer Analysis]:[0m Cannot act when channeling this status. At the end of turn, if Ulrich still has this status, deals [37m600%[0m reality DMG to all enemies. This counts as a follow-up attack. Deals [37m100%[0m extra DMG per [34m[Encryption Key][0m, to a maximum of [37m10[0m stacks. [34m[Encryption Key][0m on each status is counted independently.
+
+[1;37mUlrich ([4mFree[0;1;37m)[0m
+[1;33mIntellect, 6✦[0m
+[1;37mPortrays[0m
+
+[1;37mP1:[0m The effect of [34m[Encryption Key][0m on [36m[Structure Analysis][0m and [36m[Frequency Analysis][0m increases to [37m5.5%[0m.
+
+[1;37mP2:[0m After [36m[Supercomputer Analysis][0m is completed, deal  [37m900%[0m reality DMG.
+
+[1;37mP3:[0m When in [36m[Pulsing Electric Field Lv. 3][0m, each [34m[Encryption Key][0m deals extra [37m175%[0m reality DMG on [36m[Supercomputer Analysis][0m instead.
+
+[1;37mP4:[0m Each [34m[Encryption Key][0m deals extra  [37m25%[0m reality DMG on [31m[Peak Voltage][0m instead.
+
+[1;37mP5:[0m After [36m[Supercomputer Analysis][0m is completed, deal [37m1050%[0m reality DMG. Each [34m[Encryption Key][0m deals extra [37m175%[0m reality DMG on [36m[Supercomputer Analysis][0m instead.
+
+[1;37mPsychube: A Tingle Of A Thought[0m
+[1;37m        ATK : [0m57   -> [1m380[0m
+[1;37m         HP : [0m390  -> [1m2600[0m
+[1;37mReality DEF : [0m24   -> [1m160[0m
+[1;37m Mental DEF : [0m24   -> [1m160[0m
+[1;37m  Crit Rate : [0m10%[0m  -> [1m16%[0m
+
+If user's affliatus is [33m[Intellect][0m, after actively casting an incantation, ATK increases by [37m1%[0m/[37m?%[0m/[37m?%[0m/[37m?%[0m/[37m3%[0m, stacking up to [37m3[0m times.
+At the end of the round, for each time [33m[Dynamo][0m is funneled, give self [37m1.2%[0m/[37m?%[0m/[37m?%[0m/[37m?%[0m/[37m3%[0m crit DMG, stacking up to [37m16[0m times.
+
+Pip-pap, pip-pap.
+Is consciousness born first? Should I start simulating nerves?
+Both! The perfect head of intelligence!
+The pip-pap of zeroes and ones echoes endlessly;
+it is now the era of the swinging ferrofluid.
+The toaster will also join us.

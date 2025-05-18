@@ -1,0 +1,111 @@
+[1;37mNautika ([4mLIMITED![0;1;37m)[0m
+[1;35mSpirit, 6✦[0m
+
+[1;37mInsight: Pseudo-Deity[0m
+[1;37mI1:[0m After action, receives [34m[Higge][0m.
+
+[1;37mI2:[0m When any ally loses HP, accumulate [31m[Bloodtithe][0m. When entering battle, lose [37m50%[0m HP to increase max range of [31m[Bloodtithe][0m as well as [31m[Bloodtithe][0m itself by [37m8[0m. Effects that cause Nautika to lose HP will not lower her HP under [37m50%[0m.
+Moxie turns into Faith. Each time [31m[Bloodtithe][0m accumulates, Faith will increase by [37m1[0m. When Faith reaches [37m8[0m, Ultimate is available to casting.
+
+[1;37mI3:[0m When in [34m[Mother Spirit's Guidance][0m, for each [37m8[0m [31m[Bloodtithe][0m accumulated in that status, cast [31m[Mouth of the Mother][0m once.
+At the start of turn, if self does not carry [34m[Reborn][0m, consume  [37m4[0m [31m[Bloodtithe][0m to gain [34m[Reborn][0m (The amount of [31m[Bloodtithe][0m needed will increase by [37m4[0m for each use of [34m[Reborn][0m).
+
+- [34m[Higge]:[0m Increase max HP by [37m2%[0m. This effect can be stacked to a maximum of [37m15[0m layers, and lasts for [37m3[0m turns. Duration time refreshes each time a stack is gained.
+- [34m[Reborn]:[0m When taking lethal DMG, purify all debuffs on self and heal HP.
+- [31m[Mouth of the Mother]:[0m Lose [37m20%[0m current HP and deal [37m150%[0m reality DMG to all enemies, with bonus [37m100%[0m DMG scaling with [37m15%[0m of Nautika's max HP. This attack counts as a follow-up attack.
+- [33m[Mother Spirit's Guidance]:[0m After being attacked, receive [37m1[0m stack of [34m[Higge][0m. Increase healing effects on self by [37m10%[0m. For each [37m10%[0m HP lost on self, further increase healing effects by [37m5%[0m to a maximum of [37m40%[0m.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
+
+[1;37mNautika ([4mLIMITED![0;1;37m)[0m
+[1;35mSpirit, 6✦[0m
+[1;37mHuman Skills[0m
+[1;31mS1: Ice Core Drilling[0m
+ϕ Pierce the hard mantle.
+[37mϕ The researchers, with passion, pierce the hard mantle.[0m
+[33mϕ The researchers, with passion, pierce the hard mantle and knock on the boundaries of myth and history.[0m
+Single 200%/[37m300%[0m/[33m500%[0m reality DMG.
+
+[1;34mS2: Twilight Warning[0m
+ϕ Tying ropes.
+[37mϕ After tying ropes, the researchers step onto snow amidst the blizzard.[0m
+[33mϕ After tying ropes, the researchers step onto snow amidst the blizzard, visiting the barren fields where no one has gone.[0m
+Mass buff. All allies increase DMG Dealt and decrease DMG Taken by 15%/[37m20%[0m/[33m25%[0m for [37m3[0m turns.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
+
+[1;37mNautika ([4mLIMITED![0;1;37m)[0m
+[1;35mSpirit, 6✦[0m
+[1;37mInsight II Skills[0m
+[1;31mS1: Haunting Pain[0m
+ϕ Life that returned triumphantly.
+[37mϕ The swirling roars, and the life that returned triumphantly.[0m
+[33mϕ The swirling roars, the heavy claws, and the life that returned triumphantly.[0m
+Lose 20%/[37m30%[0m/[33m50%[0m current HP and deal 10%/[37m150%[0m/[33m250%[0m reality DMG to 2 enemies, with bonus [37m100%[0m DMG scaling with 10%/[37m15%[0m/[33m25%[0m of Nautika's max HP. Afterwards, receive 4/[37m6[0m/[33m10[0m stacks of [34m[Higge][0m.
+
+[1;37mS2: Gates of Horn and Ivory[0m
+Choose between [33m[Weaver of Light][0m and [31m[Martyr of the Abyss][0m to cast.
+
+[1;31mS2-1: Martyr of the Abyss[0m
+ϕ Jump into the darkness.
+[37mϕ Jump into the darkness with beating hearts.[0m
+[33mϕ Jump into the darkness and chase the whisphers in your ears.[0m
+All units lose 20%/[37m30%[0m/[33m50%[0m HP (this will not surpass 20%/[37m30%[0m/[33m50%[0m of the caster's max HP) and all allies gain [34m[Adversity I][0m for [37m3[0m turns. Afterwards, deal [37m(number of units * 50)%[0m extra reality DMG based on 10%/[37m15%[0m/[33m25%[0m of self max HP to a single enemy.
+This cannot be dodged or be redistributed. No additional DMG will be triggered by this attack.
+
+[1;33mS2-2: Weaver of Light[0m
+ϕ The hearth from the hometown far away.[0m
+[37mϕ That is the hearth from the hometown far away, where people weave fables underneath light.[0m
+[33mϕ That is the hearth from the hometown far away... where people weave fables underneath light, and sleep in sweet dreams.[0m
+Self Counter. Enter [33m[Mother Spirit's Guidance][0m for [37m3[0m turns and decrease DMG Taken by 10%/[37m15%[0m/[33m25%[0m for [37m3[0m turns.
+
+- [34m[Adversity I]:[0m Increase DMG Taken Reduction and DMG Dealt by [37m10%[0m. For every [37m10%[0m HP lost on self, further increase DMG Taken Reduction and DMG Dealt by [37m2.5%[0m to a maximum of [37m20%[0m.
+
+[1;36mUlt: Divine Yoik[0m
+[37mϕ A thousand stories have told your life, ten thousand tongues have praised you.[0m
+Self channel. Enter [36m[Blood Sacrifice][0m for 1 turn. This does not count towards the Spelldock limit.
+
+- [36m[Blood Sacrifice][0m Cannot act when channeling. At the end of turn, consume as much [31m[Bloodtithe][0m to convert into [36m[Blood Sacrifice][0m stacks -- for every [37m8[0m [31m[Bloodtithe][0m, gain [37m3[0m [36m[Blood Sacrifice][0m stacks, to a maximum of [37m24[0m stacks. If there are at least [37m3[0m [36m[Blood Sacrifice][0m stacks, release [31m[A Thousand Scars][0m. Otherwise, release [31m[A Thousand Springs][0m. 
+- [31m[A Thousand Scars]:[0m Mass attack. Deals a number of random single [37m100%[0m reality DMG based on [37m20%[0m max HP equal to the amount of [36m[Blood Sacrifice][0m stacks. Then, deal [37m100%[0m reality DMG based on [37m50%[0m max HP to all enemies. Finally, recover [37m(consumed [36m[Blood Sacrifice][37m stacks * 5)%[0m self HP.
+- [31m[A Thousand Springs]:[0m Mass attack. Deals [37m500%[0m reality DMG to all enemies, with extra [37m100%[0m DMG based on [37m25%[0m self max HP. Finally, recover [37m15%[0m self HP.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
+
+[1;37mNautika ([4mLIMITED![0;1;37m)[0m
+[1;35mSpirit, 6✦[0m
+
+[1;37mP1:[0m When entering battle, give [37m16[0m [31m[Bloodtithe][0m and [31m[Bloodtithe][0m maximum instead. [34m[Higge][0m gives [37m3%[0m max HP increase, and only [37m6[0m [31m[Bloodtithe][0m is required to trigger [31m[Mouth of the Mother][0m.
+
+[1;37mP2:[0m Ultimate converts every [37m7[0m [31m[Bloodtithe][0m into [37m3[0m [36m[Blood Sacrifice][0m stacks instead. Maximum [36m[Blood Sacrifice][0m stacks increases to [37m27[0m. Each strike of [31m[A Thousand Scars][0m is based on [37m27.5%[0m max HP instead, and the HP recovered is increased to [37m10%[0m per stack. [31m[A Thousand Springs][0m is now based on [37m50%[0m max HP, and recovers [37m30%[0m max HP.
+
+[1;37mP3:[0m [33m[Mother Spirit's Guidance][0m's effect increases to [37m20%[0m, with extra 7.5% per [37m10%[0m lost HP, to a maximum of [37m60%[0m increase. [31m[Mouth of the Mother][0m consumes [37m30%[0m current HP instead, and the extra DMG is scaled with [37m25%[0m of max HP.
+
+[1;37mP4:[0m Extra DMG dealt by [31m[Martyr of the Abyss][0m scales with 20%/[37m30%[0m/[33m50%[0m of max HP. [33m[Weaver of Light][0m decrease DMG Taken by 20%/[37m25%[0m/[33m40%[0m for [37m4[0m turns. [1;37m[Mother Spirit's Guidance][0m increases duration to [37m4[0m.
+
+[1;37mP5:[0m Ultimate converts every [37m6[0m [31m[Bloodtithe][0m into [37m3[0m [34m[Blood Sacrifice][0m stacks instead. Maximum [34m[Blood Sacrifice][0m stacks increases to [37m30[0m. Each strike of [31m[A Thousand Scars][0m is based on [37m35%[0m max HP instead.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
+
+[1;37mPsychube: Embrace the Past[0m
+[1;37m        ATK : [0m58  -> [1m390[0m
+[1;37m         HP : [0m645 -> [1m4300[0m
+[1;37mReality DEF : [0m13  -> [1m90[0m
+[1;37m Mental DEF : [0m13  -> [1m90[0m
+[1;37m         HP : [0m10%[0m -> [1m16%[0m
+
+When entering battle, if user's affliatus is [35m[Spirit][0m, Max HP increased by [37m5%[0m/[37m7.5%[0m/[37m10%[0m/[37m12.5%[0m/[37m15%[0m
+After the user takes damage, gain [37m1%[0m/[37m1.5%[0m/[37m1.5%[0m/[37m2%[0m/[37m2%[0m crit rate at the end of the round, stacking up to [37m16[0m times. 
+After the user is attacked, if current health is below 80% and [31m[Bloodtithe][0m is at least [37m50[0m points, gain [37m24%[0m/[37m24%[0m/[37m36%[0m/[37m36%[0m/[37m48%[0m crit dmg.
+
+What is the difference between tears and amniotic fluid?
+What is the difference between laughter and cries?
+My friend, this is Dream, and also Regret.
+The path ahead is there, as well as answers.
+Write down your epitaph; it is time to depart again.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
