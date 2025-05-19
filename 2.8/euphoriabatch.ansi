@@ -1,18 +1,18 @@
 [1;37m2.8 Euphoria[0m
 [1;37mLucy[0m
 [1;37mDawn Shall Arrive At The End Of The Stairs[0m
-[1;37mRank I:[0m If [36m[Pulsing Electric Field][0m is not active at the start of turn, activate [36m[Pulsing Electric Field Lv. 1][0m.
-After releasing a reinforced incantation, funnel at most [37m10[0m [33m[Dynamo][0m into [36m[Pulsing Electric Field][0m.
+[1;37mRank I:[0m If [33m[Pulsing Electric Field][0m is not active at the start of turn, activate [33m[Pulsing Electric Field Lv. 1][0m.
+After releasing a reinforced incantation, funnel at most [37m10[0m [33m[Dynamo][0m into [33m[Pulsing Electric Field][0m.
 
 [1;37mRank II:[0m When entering battle, receives [37m20[0m [33m[Dynamo][0m.
 After reinforcing an incantation, receive [37m1[0m stack of [34m[Data Iteration][0m.
 
-[1;37mRank III:[0m Receives [34m[Electric Amp][0m.
-- [34m[Electric Amp]:[0m When entering [36m[Pulsing Electric Field Lv. 3][0m, acquire [37m2[0m stacks of [34m[Overcharged Ammunition][0m, and when attack crits in [36m[Pulsing Electric Field Lv. 3][0m, also receive [37m1[0m stack of [34m[Overcharged Ammunition][0m.
+[1;37mRank III:[0m Receives [33m[Electric Amp][0m.
+- [33m[Electric Amp]:[0m When entering [33m[Pulsing Electric Field Lv. 3][0m, acquire [37m2[0m stacks of [34m[Overcharged Ammunition][0m, and when attack crits in [33m[Pulsing Electric Field Lv. 3][0m, also receive [37m1[0m stack of [34m[Overcharged Ammunition][0m.
 
 [1;37mRank IV:[0m Reinforcing incantations no longer consumes [33m[Dynamo][0m. When an enemy is defeated, no longer acquires [33m[Dynamo][0m.
-When in [36m[Pulsing Electric Field Lv. 1/2/3][0m, reinforced incantation deals extra [37m50%[0m/[37m70%[0m/[37m120%[0m reality DMG of the base [31m[Conservation of Energy][0m DMG. 
-When in [36m[Pulsing Electric Field Lv.3][0m, for each stack of [33m[Dynamo][0m, reinforced incantations deal an extra [37m8%[0m reality DMG.
+When in [33m[Pulsing Electric Field [0mLv. 1/[37m15%[0m/[33m25%[0m][0m, reinforced incantation deals extra [0m50%[0m/[37m70%[0m/[33m120%[0m reality DMG of the base [31m[Conservation of Energy][0m DMG. 
+When in [33m[Pulsing Electric Field Lv.3][0m, for each stack of [33m[Dynamo][0m, reinforced incantations deal an extra [37m8%[0m reality DMG.
 Reinforced incantations enjoy [37m100%[0m ultimate might, and each stack of [34m[Data Iteration][0m increases the effect of ultimate might by [37m10%[0m.
 
 [1mTranslation by ChunXiRavenClaw[0m
