@@ -1,10 +1,10 @@
 30 - black
-31 - red (attack/beast)
+31 - red (attack/beast/bloodtithe)
 32 - green (heal/plant)
-33 - yellow (counter/channel/mineral/intellect)
-34 - blue (buff/star)
+33 - yellow (counter/mineral/intellect/dynamo)
+34 - blue (buff/star/inspiration)
 35 - magenta (debuff/spirit)
-36 - cyan (force field/array)
+36 - cyan (force field/array/channel)
 37 - white
 
 [1;37m<Unit Name>[0m
@@ -20,7 +20,7 @@
 [37mϕ <Rank 2 Line>[0m
 [33mϕ <Rank 3 Line>[0m
 
-<Single Stat>[0m
+[37m<Single Stat>[0m
 <Rank 1 Stat>[0m/[37m<Rank 2 Stat>[0m/[33m<Rank 3 Stat>[0m
 
 [1;37mS2:[0m
@@ -49,7 +49,7 @@
 [1;37m         HP : [0m<I. HP>   -> [1m<F. HP>[0m
 [1;37mReality DEF : [0m<I. RDef> -> [1m<F. RDef>[0m
 [1;37m Mental DEF : [0m<I. MDef> -> [1m<F. MDef>[0m
-[1;37m<Main Stat>[0;1;37m : [0m<I. MS>%  -> [1m<F. MS>%[0m
+[1;37m<Main Stat> : [0m<I. MS>%  -> [1m<F. MS>%[0m
 
 <A1>%/<A2>%/<A3>%/<A4>%/<A5>%
 
