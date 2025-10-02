@@ -1,0 +1,59 @@
+[1;37m3.0 Euphoria[0m
+[1;37mGetian[0m
+[1;37mCold Winds Bid The Hills Farewell[0m
+
+[1;37mRank I:[0m Eureka limit increased by [37m5[0m. [36m[A Prophecy Told][0m now lasts until there is not enough Eureka to consume. The array consumes [37m2[0m Eureka each round.
+When under [36m[A Prophecy Told][0m, no longer gains [37m1[0m eureka at the end of the round. The eureka gained by casting [1;34m[I Shall Walk, Exist, and Know][0m is instead equal to [37mdouble[0m the rounds* the array is up.
+[36m[A Prophecy Told][0m gains the following additional effects: when a reality damage ally attacks, ultimate might additionally increases by [37m13.5%[0m for each round* the array is up.
+[36m[Bone Reading][0m triggering [31m[Admonition][0m no longer consumes eureka, and is no longer removed when eureka is not enough. Instead, [36m[Bone Reading][0m lasts for [37m5[0m rounds. 
+[31m[Admonition][0m is seen as an ultimate.
+[31m[Admonition][0m's reality damage is increased by [37m100%[0m.
+
+*The number of rounds is capped at the duration of [36m[A Prophecy Told][0m before Getian's euphoria ([37m3[0m at Portray 0, [37m4[0m at Portray 1+).
+
+[1;37mRank II:[0m When entering battle, increases moxie by [37m1[0m; at the end of the round, if under [36m[A Prophecy Told][0m, increases self moxie by [37m1[0m.
+
+[1;37mRank III:[0m After casting [1;35m[Old Bones][0m, additionally casts [31m[Admonition][0m [37m1[0m more time. This [31m[Admonition][0m cast additionally gains increase in reality damage equal to the amount of DMG dealt by [1;35m[Old Bones][0m.
+
+[1;37mRank IV:[0m While under [36m[A Prophecy Told][0m, when Getian casts [31m[Admonition][0m, double the critical rate and critical damage from insight effects. 
+While under [36m[A Prophecy Told][0m, when casting an ultimate, casts [31m[Admonition][0m [37monce[0m. This [31m[Admonition][0m cast increases its reality damage by [37m700%[0m.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
+
+[1;37m3.0 Euphoria[0m
+[1;37mCenturion[0m
+[1;37mFate Prefers Here[0m
+
+[1;37mRank I:[0m When entering battle, increases moxie limit by [37m5[0m.
+[1;31m[Victorious General][0m gains an increase in reality damage equal to [37m300%[0m of current moxie.
+[1;31m[Outdoor Superstar][0m gains an increase in reality damage based on [37m225%[0m of current moxie.
+[1;31m[Victorious General][0m and [1;31m[Outdoor Superstar][0m damage is affected by [37m100%[0m ultimate might as well.
+
+[1;37mRank II:[0m When casting [1;31m[Victorious General][0m, if moxie is below [37m7[0m, increases own moxie by [37m1[0m; otherwise, consume [37m2[0m moxie to additionally increase reality damage by 240[0m/[37m360[0m/[33m600[0m%.
+
+[1;37mRank III:[0m When casting [1;31m[Outdoor Superstar][0m, if moxie is below [37m7[0m, increases own moxie by [37m1[0m; otherwise, consume [37m2[0m moxie to additionally increase reality damage by 180[0m/[37m270[0m/[33m450[0m%.
+
+[1;37mRank IV:[0m Casting ultimate does not consume moxie. After casting ultimate, enters [1;34m[Feast of Heaven][0m.
+- [1;34m[Feast of Heaven][0m: Cannot gain ultimate. Casting [1;31m[Victorious General][0m and [1;31m[Outdoor Superstar][0m does not consume moxie, and increase critical rate by [37m30%[0m and critical damage by [37m60%[0m. Clears all moxie when status ends.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
+
+[1;37m3.0 Euphoria[0m
+[1;37mDruvis III[0m
+[1;37mThe New Sprouts of Ashes and Fire[0m
+
+[1;37mRank I:[0m [34m[Circle of Life][0m also gives: When attacking, based on incantation level, inflicts 1[0m/[37m2[0m/[33m3[0m stacks of [35m[Sprouts in the Fire][0m. [34m[Circle of Life][0m cannot be dispelled.
+[35m[Sprouts in the Fire]:[0m At the end of the round, each stack deals [37m400%[0m of the average attack of all allies as genesis damage. Removes all stacks afterwards. This can stack up to [37m9[0m times.
+
+[1;37mRank II:[0m [35m[Sprouts in the Fire][0m also decreases crit resist by [37m15%[0m and crit DEF by [37m30%[0m. For each additional stack, decrease crit resist by [37m1.5%[0m and crit DEF by [37m3%[0m.
+
+[1;37mRank III:[0m When entering battle, strengthens [34m[Circle of Life][0m when there are at least [37m3[0m [32m[Plant][0m afflatus allies in the following manner:
+Increases Penetration rate of allies under [34m[Circle of Life][0m in front of self by [37m40%[0m. Increases damage reduction of allies under [34m[Circle of Life][0m behind self by [37m30%[0m.
+
+[1;37mRank IV:[0m When entering battle, strengthens [34m[Circle of Life][0m when there are at least [37m3[0m [32m[Plant][0m afflatus allies in the following manner:
+When [35m[Sprouts in the Fire][0m is triggered, increases damage bonus for all allies by [37m6%[0m per stack for [37m2[0m rounds.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
