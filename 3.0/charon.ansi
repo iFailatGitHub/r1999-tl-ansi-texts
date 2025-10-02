@@ -1,0 +1,88 @@
+[1;37mCharon[0m
+[1;35mSpirit, 6✦[0m
+[1;37mInsight: Trembling Brainwaves[0m
+
+[1;37mI1:[0m Receives [34m[Amplified Surge][0m. 
+If [33m[Pulsing Field][0m is not active at the start of turn, activate [33m[Pulsing Field Lv. 1][0m. At the end of turn, inject at least [37m20[0m [33m[Dynamo][0m into [33m[Pulsing Field][0m.
+For each overflowing [33m[Dynamo][0m, Charon acquires [37m1[0m [34m[Shock Wave][0m. For each overflowing moxie of all allies, Charon acquires [37m20[0m [34m[Shock Wave][0ms. When any enemy/ally dies, Charon acquires [37m20[0m/[37m40[0m [34m[Shock Wave][0ms. For every [37m40[0m [34m[Shock Wave][0m acquired, gain [37m1[0m stack of [34m[Consternation][0m which lasts for [37m4[0m turns.
+
+[1;37mI2:[0m When entering battle, increase ATK by [37m5[0m.
+
+[1;37mI3:[0m When any enemy enters battle, said enemy is inflicted with [35m[Fear of Death][0m for [37m2[0m turns. When entering battle, receives [37m20[0m [33m[Dynamo][0m, [37m40[0m [34m[Shock Wave][0m, and [37m2[0m moxie. For each [35m[Spirit][0m and [33m[Intelligence][0m ally, receives [37m1[0m extra moxie to a maximum of [37m2[0m extra.
+
+- [34m[Amplified Surge]:[0m [33m[Pulsing Field Lv. 1][0m will consume [37m40[0m extra [33m[Dynamo][0m to directly upgrade to [33m[Lv. 3][0m. When entering [33m[Lv. 3][0m, gives self and the immediate ally in front [34m[Simplified Rituals][0m. When in [33m[Lv. 3][0m, increase Penetration Rate by [37m50%[0m.
+- [34m[Simplfied Ritual]:[0m Ult does not cost AP. After releasing Ult, dispel this status.
+- [34m[Consternation]:[0m Increase Penetration Rate by [37m5%[0m to a maximum of [37m10[0m stacks. Each stack has its own countdown.
+- [35m[Fear of Death]:[0m After being attacked, if HP is lower than [37m20%[0m when the status is inflicted (this cannot surpass [37m4000%[0m of Charon's ATK), Charon deals high genesis DMG to the enemy which is not affected by [34m[Stats Up][0m. Reduce crit DEF by [37m20%[0m, and for each stack of [34m[Consternation][0m Charon has, decrease an extra [37m5%[0m to a maximum of [37m20%[0m. When [34m[Consternation][0m reaches [37m4[0m stacks, increase DMG taken by [37m30%[0m.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
+
+[1;37mCharon[0m
+[1;35mSpirit, 6✦[0m
+[1;37mSkills[0m
+
+[1;34mS1: From The Void[0m
+ϕ To the end of dreams.[0m
+[37mϕ To the end of dreams, to the chaotic journey.[0m
+[33mϕ To the end of dreams, to the chaotic journey, there is nothing before me.[0m
+
+Mass 200[0m/[37m300[0m/[33m500[0m% mental DMG to all enemies. Gives self 20[0m/[37m30[0m/[33m50[0m [34m[Shock Wave][0m. When hit, inflict [35m[Fear of Death][0m for [37m2[0m turns.
+
+[1;34mS2: Advice From The Dead[0m
+ϕ They let out their final screams.[0m
+[37mϕ They let out their final screams, with all their wisdom.[0m
+[33mϕ They let out their final screams, with all their wisdom: cherish the peaceful days.[0m
+
+Mass buff. Self gains 20[0m/[37m30[0m/[33m50[0m [34m[Shock Wave][0m, and all allies gain [34m[Peaceful Soul][0m for [37m2[0m turns.
+
+- [34m[Peaceful Soul]:[0m Increase crit rate by [37m30%[0m, and for each stack of [34m[Consternation][0m Charon has, increase an extra [37m5%[0m to a maximum of [37m20%[0m. When [34m[Consternation][0m reaches [37m4[0m stacks, allies with [34m[Peaceful Soul][0m converts [37m80%[0m of overflowing crit rate into crit DMG when attacking.
+
+[1;36mUlt: New Blooms Of Life[0m
+[37mϕ War will never be forgotten, until everyone remembers it deep in their hearts.[0m
+Self channel. Increase moxie by [37m1%[0m. Destroy all [1;34m[From The Void][0m and [1;34m[Advice From The Dead][0m in the Spelldock, and gain 20[0m/[37m30[0m/[33m50[0m [34m[Shock Wave][0m for each rank 1[0m/[37m2[0m/[33m3[0m destroyed. Enter [36m[Shadow of the Past][0m. When released under [36m[Shadow of the Past][0m, reset the cost needed to cast [31m[Shroud of Regret][0m.
+
+- [36m[Shadow of the Past]:[0m At the end of turn, consume [37m0[0m [34m[Shock Wave][0m to trigger [31m[Shroud of Regret][0m. Each trigger will increase the amount of [34m[Shock Wave][0m needed for the next trigger by [37m50[0m. Channel ends when [34m[Shock Wave][0m is drained.
+- [31m[Shroud of Regret]:[0m Mass [37m150%[0m mental DMG to all enemies. This ATK is affected by [37m60%[0m of Ult Might, and this effect increases by [37m10%[0m, as well as deals [37m50%[0m more mental DMG per [34m[Consternation][0m stack. For each [37m5[0m [34m[Shock Wave][0m stacks, gives self [37m1[0m [33m[Dynamo][0m. All [35m[Fear of Death][0m and [34m[Peaceful Soul][0m increase duration by [37m1[0m. Increase self moxie by [37m1[0m.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
+
+[1;37mCharon[0m
+[1;35mSpirit, 6✦[0m
+[1;37mPortrays[0m
+
+[1;37mP1:[0m For each stack of [34m[Consternation][0m Charon has, [34m[Peaceful Soul][0m increase an extra [37m7.5%[0m to a maximum of [37m30%[0m. When [34m[Consternation][0m reaches [37m4[0m stacks, allies with [34m[Peaceful Soul][0m converts [37m100%[0m of overflowing crit rate into crit DMG when attacking.
+
+[1;37mP2:[0m When entering battle, [37m30[0m [33m[Dynamo][0m, [37m90[0m [34m[Shock Wave][0m, and [37m3[0m moxie.
+
+[1;37mP3:[0m [31m[Shroud of Regret][0m deals [37m400%[0m mental DMG, and this attack is affected by [37m70%[0m of Ult Might.
+
+[1;37mP4:[0m For each stack of [34m[Consternation][0m Charon has, [35m[Fear of Death][0m decreases crit DEF for an extra [37m7.5%[0m to a maximum of [37m30%[0m, and when [34m[Consternation][0m reaches [37m4[0m stacks, increase DMG taken by [37m50%[0m.
+
+[1;37mP5:[0m For each stack of [34m[Consternation][0m Charon has, [31m[Shroud of Regret][0m deals [37m100%[0m more DMG and the attack is affected by an extra [37m12%[0m Ult Might. 
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
+
+[1;37mCharon[0m
+[1;35mSpirit, 6✦[0m
+[1;37mPsychube: Buds Yet To Bloom[0m
+
+[1;37m        ATK : [0m57  -> [1m280[0m
+[1;37m         HP : [0m390 -> [1m2600[0m
+[1;37mReality DEF : [0m24  -> [1m180[0m
+[1;37m Mental DEF : [0m24  -> [1m180[0m
+[1;37m  Crit Rate : [0m10% -> [1m16%[0m
+
+If user's affliatus is [35m[Spirit][0m, when the user is in Channel while attacking, increase DMG dealt by 8%/10%/12%/14%/16%.
+At the end of turn, if the user has injected [33m[Dynamo][0m to [33m[Pulsing Field][0m at least once, all allies increase crit DMG by 4%/5%/6%/7%/8%, stacking up to [37m3[0m times.
+
+In the trenches of a foreign land, blood and flesh are laid to rest.
+Your name, your surname, and your story,
+Have all turned to dust, whispering to the seeds.
+When the warring smoke say farewell, and when the bullets become tired,
+The new buds will tell the spring the story of your life.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
