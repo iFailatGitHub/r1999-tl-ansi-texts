@@ -1,0 +1,85 @@
+[1;37mSentinel[0m
+[1;33mMineral, 6✦[0m
+[1;37mInsight[0m
+
+[1;37mI1:[0m When any allies lose HP, gain [31m[Bloodtithe][0m. When any allies have [34m[Dread Bullet][0ms, increase crit rate by [37m30%[0m. When any allies' attack triggers [34m[Dread Bullet][0ms, increase DMG bonus equal to [37m0.25%[0m of the ally's max HP, and [37m80%[0m overflowing crit rate is converted to to crit DMG.
+
+[1;37mI2:[0m When entering battle, increase DMG dealt by [37m8%[0m.
+
+[1;37mI3:[0m When an attack triggers a bullet, there is a [37m50%[0m chance to trigger the following effect: Increase moxie by [37m1[0m if moxie is less than [37m5[0m; otherwise, gain [34m[Fresh Wound][0m.
+
+- [34m[Dread Bullet]:[0m When attacking, deals [37m75%[0m extra DMG which is scaled with [37m20%[0m of max HP. Consume 1 stack per trigger.
+- [34m[Fresh Wound]:[0m At the start of turn, lose (max HP * [37m1.5%[0m * number of stacks) HP. [31m[Bloodtithe][0m gained from this increases by [37m50%[0m. Max [37m20[0m stacks, and the HP loss will not surpass current HP.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
+
+[1;37mSentinel[0m
+[1;33mMineral, 6✦[0m
+[1;37mSkills[0m
+
+[1;31mS1: Expiation[0m
+ϕ Everyone sins.[0m
+[37mϕ Everyone sins, and everyone must pay.[0m
+[33mϕ Everyone sins, and everyone must pay. So do I.[0m
+
+Single 130[0m/[37m195[0m/[33m325%[0m reality DMG. This attack is a [34m[Retribution][0m. After attacking, self gains 2[0m/[37m3[0m/[33m5[0m stacks of [34m[Fresh Wound][0m. If this is actively cast, gain [37m1[0m [31m[Bloodtithe][0m.
+
+- [34m[Retribution]:[0m DMG is scaled with [37m20%[0m max HP instead.
+
+[1;36mS2: Night Watch[0m
+ϕ Stand atop the high tower.[0m
+[37mϕ Stand atop the high tower and watch the unlit streets.[0m
+[33mϕ Stand atop the high tower, watch the unlit streets, and protect the struggling weak.[0m
+
+Self channel. Gain [36m[Hour of Repentance][0m and 6[0m/[37m9[0m/[33m15[0m [34m[Dread Bullet][0ms. Before acting, if self isn't in [36m[Hour of Repentance][0m, gain 2 stacks of [34m[Locked On][0m; consume [37m1[0m [31m[Bloodtithe][0m to give 6[0m/[37m9[0m/[33m15[0m [34m[Dread Bullet][0ms to the ally immediately before self in position.
+
+- [36m[Hour of Repentance]:[0m At the start of turn, gain [37m2[0m stacks of [34m[Locked On][0m. After enemies act, consume [37m1[0m stack of [34m[Locked On][0m to release a Rank 1 [1;31m[Expiation][0m. At the end of turn, consume all [34m[Locked On][0m stacks to cast [1;31m[Expiation][0m once per stack on random enemies, with priority to the boss. [1;31m[Expiation][0ms triggered that way increase the multiplier of [34m[Retribution][0m by [37m10%[0m. If [34m[Dread Bullet][0ms runs out after attacking, stop channeling.
+
+[1;31mUlt: Infernal Mercy[0m
+[37mϕ All evil actions will be judged. All evil doers will not have a good end.[0m
+
+Mass [37m300%[0m reality DMG. This attack is a [34m[Retribution][0m and will not count towards the Spelldock limit. For each stack of [34m[Fresh Wound][0m, increase the multiplier of [34m[Retribution][0m by [37m2%[0m. Consume all [34m[Fresh Wound][0m stacks to heal [37m5%[0m lost HP on self per stack.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
+
+[1;37mSentinel[0m
+[1;33mMineral, 6✦[0m
+[1;37mPortrays[0m
+
+[1;37mP1:[0m When any allies have [34m[Dread Bullet][0ms, increase crit rate by [37m40%[0m. When any allies' attack triggers [34m[Dread Bullet][0ms, increase DMG bonus equal to [37m0.3%[0m of the ally's max HP, and [37m100%[0m overflowing crit rate is converted to to crit DMG.
+
+[1;37mP2:[0m [1;36m[Night Watch][0m gives 9[0m/[37m12[0m/[33m18[0m [34m[Dread Bullet][0ms to self and ally. [36m[Hour of Repentance][0m gives [37m3[0m stacks of [34m[Locked On][0m at the start of round.
+
+[1;37mP3:[0m [1;31m[Expiation][0m deals 150[0m/[37m225[0m/[33m375%[0m reality DMG. [1;31m[Expiation][0m triggered by [36m[Hour of Repentance][0m increase the multiplier of [34m[Retribution][0m by [37m15%[0m.
+
+[1;37mP4:[0m Ult deals [37m450%[0m reality DMG.
+
+[1;37mP5:[0m When any allies have [34m[Dread Bullet][0ms, increase crit rate by [37m60%[0m. When any allies' attack triggers [34m[Dread Bullet][0ms, increase DMG bonus equal to [37m0.4%[0m of the ally's max HP, and [37m100%[0m overflowing crit rate is converted to to crit DMG.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
+
+[1;37mSentinel[0m
+[1;33mMineral, 6✦[0m
+[1;37mPsychube: Homecoming Lament[0m
+
+[1;37m        ATK : [0m54  -> [1m360[0m
+[1;37m         HP : [0m570 -> [1m3800[0m
+[1;37mReality DEF : [0m21  -> [1m140[0m
+[1;37m Mental DEF : [0m21  -> [1m140[0m
+[1;37m         HP : [0m10% -> [1m16%[0m
+
+If user's affliatus is [33m[Mineral][0m, and if [31m[Bloodtithe][0m maximum is no less than [37m50[0m, DMG dealt increases by 8%/10%/12%/14%/16%.
+For each time the user takes DMG, increase critical DMG at the end of turn by 2%/2.5%/3%/3.5%/4%, stacking up to [37m9[0m times.
+
+Come home, come home.
+We go home in glory,
+With flowers.
+Come home, come home.
+The old sends off the young,
+With flowers.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
