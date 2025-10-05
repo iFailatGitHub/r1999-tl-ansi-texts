@@ -6,8 +6,8 @@
 [1;37m Mental DEF : [0m24  -> [1m140[0m
 [1;37m  DMG Bonus : [0m4%  -> [1m10%[0m
 
-User's critical rate increases by 8%/10%/12%/14%/16%.
-When the user triggers a bullet, increase critical DMG by 16%/20%/24%/28%/32% for [37m2[0m rounds.
+User's critical rate increases by [37m8%/10%/12%/14%/16%[0m.
+When the user triggers a bullet, increase critical DMG by [37m16%/20%/24%/28%/32%[0m for [37m2[0m rounds.
 
 There is no sobbing and crying.
 There is no sighing and lamenting.

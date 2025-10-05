@@ -75,8 +75,8 @@ Self channel. Increase moxie by [37m1%[0m. Destroy all [1;34m[From The Void]
 [1;37m Mental DEF : [0m24  -> [1m180[0m
 [1;37m  Crit Rate : [0m10% -> [1m16%[0m
 
-If user's affliatus is [35m[Spirit][0m, when the user is in Channel while attacking, increase DMG dealt by 8%/10%/12%/14%/16%.
-At the end of turn, if the user has injected [33m[Dynamo][0m to [33m[Pulsing Field][0m at least once, all allies increase crit DMG by 4%/5%/6%/7%/8%, stacking up to [37m3[0m times.
+If user's affliatus is [35m[Spirit][0m, when the user is in Channel while attacking, increase DMG dealt by [37m8%/10%/12%/14%/16%[0m.
+At the end of turn, if the user has injected [33m[Dynamo][0m to [33m[Pulsing Field][0m at least once, all allies increase crit DMG by [37m4%/5%/6%/7%/8%[0m, stacking up to [37m3[0m times.
 
 In the trenches of a foreign land, blood and flesh are laid to rest.
 Your name, your surname, and your story,

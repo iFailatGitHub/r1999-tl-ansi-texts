@@ -71,8 +71,8 @@ Mass [37m300%[0m reality DMG. This attack is a [34m[Retribution][0m and will
 [1;37m Mental DEF : [0m21  -> [1m140[0m
 [1;37m         HP : [0m10% -> [1m16%[0m
 
-If user's affliatus is [33m[Mineral][0m, and if [31m[Bloodtithe][0m maximum is no less than [37m50[0m, DMG dealt increases by 8%/10%/12%/14%/16%.
-For each time the user takes DMG, increase critical DMG at the end of turn by 2%/2.5%/3%/3.5%/4%, stacking up to [37m9[0m times.
+If user's affliatus is [33m[Mineral][0m, and if [31m[Bloodtithe][0m maximum is no less than [37m50[0m, DMG dealt increases by [37m8%/10%/12%/14%/16%[0m.
+For each time the user takes DMG, increase critical DMG at the end of turn by [37m2%/2.5%/3%/3.5%/4%[0m, stacking up to [37m9[0m times.
 
 Come home, come home.
 We go home in glory,
