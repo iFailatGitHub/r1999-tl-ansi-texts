@@ -1,0 +1,84 @@
+[1;37mRubuska[0m
+[1;33mMineral, 6✦[0m
+[1;37mInsight: The Happy Pied Piper[0m
+[1;37mI1:[0m When any ally loses HP, accumulate [31m[Bloodtithe][0m. When Rubuska is in battle, give all allies [34m[Shadow Friend][0m. When any allies' [34m[Shadow Cloak][0m reaches maximum, Rubuska's moxie increases by [37m1[0m. Rubuska can store a total of [37m3[0m excess moxie, and if there is space at the end of turn, replenish her moxie.
+
+[1;37mI2:[0m When entering battle, increase max HP by [37m5%[0m.
+
+[1;37mI3:[0m Give all allies [34m[Grace of Rubuska I][0m. When any ally is attacked, heal all allies by [37m12%[0m of self max HP. This heal cannot crit, and this can be triggered at most [37m3[0m times per turn.
+
+- [34m[Shadow Friend]:[0m At the start of turn, lose [37m10%[0m of current HP, and [37m70%[0m of HP lost by Rubuska from this will be converted to [34m[Shadow Cloak][0m. When Rubuska dies, [34m[Shadow Friend][0m is dispelled.
+- [34m[Shadow Cloak]:[0m Each [37m1[0m point of [34m[Shadow Cloak][0m increases [37m1%[0m max HP. Each [37m200[0m/[37m300[0m points of [34m[Shadow Cloak][0m increases crit DMG/Ult Might by [37m1%[0m. (Maximum is equal to [37m15%[0m of Rubuska's max HP when entering battle.)
+- [34m[Grace of Rubuska I]:[0m When taking lethal DMG, remain in battle and heal HP equal to [37m30%[0m of Rubuska's max HP. Consumed after triggered. This can trigger only [37monce[0m for each ally, and cannot be stacked nor dispelled.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
+
+[1;37mRubuska[0m
+[1;33mMineral, 6✦[0m
+[1;37mSkills[0m
+
+[1;31mS1: Midnight Prank[0m
+ϕ They are whispering.[0m
+[37mϕ They are whispering under the moonlight.[0m
+[33mϕ They are whispering, and under the moonlight, they climb to the skies.[0m
+
+Lose [37m10%[0m of current HP to deal single 120%[0m/[37m180%[0m/[33m300%[0m reality DMG. This attack is a [34m[Retribution][0m. Increase [34m[Shadow Cloak][0m to all allies' [34m[Shadow Friend][0m by 3%[0m/[37m6%[0m/[33m9%[0m of the user's max HP.
+
+- [34m[Retribution]:[0m DMG is scaled with [37m20%[0m max HP instead. (This comes from Sentinel.)
+
+[1;32mS2: Shadow Guards[0m
+ϕ She plays music softly.[0m
+[37mϕ She plays music softly, an improvised tale.[0m
+[33mϕ She plays music softly. The living and the dead, those that yearn for reunion, will meet again at the two ends of the melody.[0m
+
+Mass heal. Heal [37m25%[0m lost HP + 20%[0m/[37m25%[0m/[33m30%[0m of user's max HP to all allies. This heal cannot crit. Increase [34m[Shadow Cloak][0m to all allies' [34m[Shadow Friend][0m by 4%[0m/[37m8%[0m/[33m12%[0m of the user's max HP.
+
+[1;34mUlt: Victory Belongs To Rubuska The First![0m
+[37mϕ She will always save you the best seat for her performance![0m
+
+Single buff. Target enters [34m[Shadow Feast][0m for [37m1[0m turn, and heal all allies equal to [37m10%[0m of user's max HP.
+
+- [34m[Shadow Feast]:[0m Drain all [34m[Shadow Cloak][0m except for the target. Then, the target receives [37m20%[0m of the sum of the drained [34m[Shadow Cloak][0m. This extra [34m[Shadow Cloak][0m does not affect the target's own [34m[Shadow Cloak][0m and can surpass its maximum, though the buffs from this extra [34m[Shadow Cloak][0m will be equal to [37m80%[0m of the original buffs. When this status disappears, the extra [34m[Shadow Cloak][0m is gone.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
+
+[1;37mRubuska[0m
+[1;33mMineral, 6✦[0m
+[1;37mPortrays[0m
+
+[1;37mP1:[0m [34m[Shadow Feast][0m lasts for [37m2[0m returns, and the target of the Ult receives [37m35[0m of the sum of the drained [34m[Shadow Cloak][0m instead. The extra [34m[Shadow Cloak][0m receives the same buffs as normal [34m[Shadow Cloak][0m.
+
+[1;37mP2:[0m The maximum amount of [34m[Shadow Cloak][0m increases to [37m18%[0m of Rubuska's max HP. The conversion rate to [34m[Shadow Cloak][0m from Rubuska losing HP becomes [37m10%[0m.
+
+[1;37mP3:[0m [1;31m[Shadow Feast][0m deals 180%[0m/[37m270%[0m/[33m450%[0m reality DMG.
+
+[1;37mP4:[0m When any ally is attacked, heal all allies by [37m16%[0m of self max HP instead.
+
+[1;37mP5:[0m Each [37m100[0m/[37m200[0m points of [34m[Shadow Cloak][0m increases crit DMG/Ult Might by [37m1%[0m instead of the original [37m200[0m/[37m300[0m.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
+
+[1;37mRubuska[0m
+[1;33mMineral, 6✦[0m
+[1;37mPsychube: The Wandering Improviser[0m
+
+[1;37m        ATK : [0m48  -> [1m230[0m
+[1;37m         HP : [0m570 -> [1m3800[0m
+[1;37mReality DEF : [0m24  -> [1m160[0m
+[1;37m Mental DEF : [0m24  -> [1m160[0m
+[1;37m         HP : [0m10% -> [1m16%[0m
+
+If user's affliatus is [33m[Mineral][0m, increase Healing Rate by 12/15/18/21/24%.
+When any ally takes DMG, at the end of turn increases said ally's Ult Might by 2/2.5/3/3.5/4% for a maximum of [37m6[0m stacks.
+
+Travellers, adventures, lies.
+I weave shadows, and shadows weave rambles.
+Shadows are my only companion. Thank you for truly existing.
+As for the flute, it has cried for me,
+Thousands of times.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
