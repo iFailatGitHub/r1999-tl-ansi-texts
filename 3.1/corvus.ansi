@@ -2,14 +2,17 @@
 [1;33mIntelligence, 6✦[0m
 [1;37mInsight:[0m
 
-[1;37mI1:[0m When entering battle, gains [34m[Amplified Surge][0m. After an active action, gain [33m[Dynamo][0m. At the start of the round, if not under a [33m[Pulsing Field][0m of any level, deploy [33m[Pulsing Field Lv. 1][0m. Ultimate does not take up the allied Incantation Draw Limit. When exiting [33m[Pulsing Field Lv. 3][0m, [34m[Arc Light][0m turns into [33m[Dynamo][0m and [34m[Trembling Arc][0m.
+[1;37mI0:[0m When entering battle, gains [34m[Amplified Surge][0m. After an active action, gain [37m10[0m [33m[Dynamo][0m. At the start of the round, if not under a [33m[Pulsing Field][0m of any level, deploy [33m[Pulsing Field Lv. 1][0m. Ultimate does not take up the allied Incantation Draw Limit.
 
-[1;37mI2:[0m When entering battle, increase ATK.
+[1;37mI1:[0m When exiting [33m[Pulsing Field Lv. 3][0m, every 2 stacks of [34m[Arc Light][0m turns into [37m1[0m [33m[Dynamo][0m and [37m2[0m [34m[Trembling Arc][0m.
 
-[1;37mI3:[0m When an enemy with [35m[High-Temp Welding][0m dies, inflict [35m[High-Temp Welding][0m to a random enemy, and also inflict them with the same number of stacks of [35m[Breaking Point][0m.
+[1;37mI2:[0m When entering battle, increase crit rate by [37m10%[0m.
 
-[34m[Amplified Surge]:[0m When entering [33m[Pulsing Field Lv. 3][0m, increase self moxie. When in [33m[Pulsing Field Lv. 3][0m, increase max moxie and become immune to control effects.
-[34m[Trembling Arc]:[0m Increase ATK.
+[1;37mI3:[0m When an enemy with [35m[Welding][0m dies, inflict [35m[Welding][0m to a random enemy, and also inflict them with the same number of stacks of [35m[Breaking Point][0m.
+
+- [34m[Electric Arc]:[0m Increase ATK by [37m0.3%[0m to a maximum of [37m60[0m stacks.
+- [34m[Amplified Surge]:[0m When entering [33m[Pulsing Field Lv. 3][0m, increase self moxie by [37m3[0m. When in [33m[Pulsing Field Lv. 3][0m, increase max moxie by [37m5[0m and become immune to control effects.
+- [34m[Flickering Arc]:[0m Increase ATK by [37m0.3%[0m to a maximum of [37m240[0m stacks.
 
 [1mTranslation by ChunXiRavenClaw[0m
 [1mFormatting by iFailatDicksword[0m
@@ -19,21 +22,71 @@
 [1;37mSkills:[0m
 
 [1;31mS1: Twisted Arcs[0m
-Single mental DMG. Self gains [34m[Arc Light][0m. When hit, inflict [35m[Breaking Point][0m on the target.
+ϕ Needle threads through souls.[0m
+[37mϕ Needle threads through souls, steel hides in flesh.[0m
+[33mϕ Needle threads through souls, steel hides in flesh. The dawn is still far away in front.[0m
 
-[34m[Arc Light]:[0m Increase ATK.
-[35m[Breaking Point]:[0m Consumed when hit with [31m[Forced Stitching][0m, and trigger an extra effect.
+Single 200%[0m/[37m300%[0m/[33m500%[0m mental DMG. Self gains 2[0m/[37m4[0m/[33m8[0m [34m[Electric Arc][0m. When hit, inflict [37m1[0m stack of [35m[Breaking Point][0m on the target.
+
+- [35m[Breaking Point]:[0m Neg Status. Consumed when hit with [31m[Sew It All Up][0m, and trigger an extra effect.
 
 [1;36mS2: Rose-Coloured Cracks[0m
-Self channel. Force the enemy target to enter [35m[High-Temp Welding][0m, and self enter [36m[Stitching][0m. If target is already in [35m[High-Temp Welding][0m, self gains [34m[Arc Light][0m and inflict [35m[Breaking Point][0m on the target.
+ϕ Snow still seals the Danube.[0m
+[37mϕ Snow still seals the Danube, its woven tracks spread.[0m
+[33mϕ Snow still seals the Danube, its woven tracks spread like the cracks of hometown.[0m
 
-[35m[High-Temp Welding]:[0m Decrease mental DEF. After being attacked, Corvus gains [34m[Arc Light][0m; if the DMG source is mental, further decrease mental DEF and Corvus gains extra [34m[Arc Light][0m. [31m[Forced Stitching][0m will prioritize attacking those under [35m[High-Temp Welding][0m.
-[36m[Stitching]:[0m At the end of turn, trigger different [31m[Forced Stitching][0m depending on the level of [33m[Pulsing Field][0m.
+Self channel. Force the enemy target to enter [35m[Welding][0m, and self enter [36m[Stitching][0m for [37m2[0m turns. If target is already in [35m[Welding][0m, self gains 2[0m/[37m4[0m/[33m8[0m [34m[Electric Arc][0m and inflict [37m1[0m stack of [35m[Breaking Point][0m on the target.
+
+- [35m[Welding]:[0m After being attacked, Corvus gains [37m1[0m stack of [34m[Electric Arc][0m; if the DMG source is mental, decrease mental DEF by [37m1%[0m to a maximum of [37m50%[0m, and Corvus gains an extra [37m1[0m stack of [34m[Electric Arc][0m. [31m[Sew It All Up][0m will prioritize attacking those under [35m[Welding][0m. There can only be [37m1[0m [35m[Welding][0m at a time.
+- [36m[Stitching]:[0m At the end of turn, trigger different [31m[Forced Stitching][0m depending on the level of [33m[Pulsing Field][0m. The duration increases instead of refreshes when the same channel is acquired again.
 
 [1;31mUlt: Stitching the Ephemeral into Eternity[0m
-Single mental DMG. Inflict [35m[Breaking Point][0m on target, and trigger [31m[Forced Stitching][0m.
+[37mϕ Sparks fly in the crimson. Order is reconstructed by violence. Silence will also topple dreams.[0m
+Single [37m700%[0m mental DMG. Inflict [37m1[0m stack of [35m[Breaking Point][0m on target, and trigger [31m[Sew It All Up][0m once.
 
-[31m[Forced Stitching]:[0m Single mental DMG. Funnel [33m[Dynamo][0m into [33m[Pulsing Field][0m. This ATK is affected by Ult Might. Increase this attack's DMG gradually depending on the level of [33m[Pulsing Field][0m, and consume the target's [35m[Breaking Point][0m to let self gain [34m[Arc Light][0m/increase mental DMG dealt per [34m[Arc Light][0m/further increase mental DMG dealt per [34m[Arc Light][0m or [34m[Trembling Arc][0m, and this attack is further affected by Ult Might.
+- [31m[Sew It All Up]:[0m Single [37m400%[0m mental DMG. Funnel [37m20[0m [33m[Dynamo][0m into [33m[Pulsing Field][0m. This ATK is affected by [37m100%[0m Ult Might, and is treated as an extra action.
+If in [33m[Pulsing Field Lv. 1][0m, consume [37m1[0m stack of [35m[Breaking Point][0m to let self gain [37m3[0m stacks of [34m[Electric Arc][0m.
+If in [33m[Pulsing Field Lv. 2][0m, deal extra [37m200%[0m mental DMG, and consume [37m1[0m stack of [35m[Breaking Point][0m to deal extra [37m5%[0m mental DMG per [34m[Electric Arc][0m.
+If in [33m[Pulsing Field Lv. 3][0m, deal extra [37m600%[0m mental DMG, and consume [37m1[0m stack of [35m[Breaking Point][0m to deal extra [37m5%[0m mental DMG as well as affected by an extra [37m0.3%[0m Ult Might per [34m[Electric Arc][0m or [34m[Flickering Arc][0m.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
+
+[1;37mCorvus[0m
+[1;33mIntelligence, 6✦[0m
+[1;37mPortrays:[0m
+
+[1;37mP1:[0m Ultimate deals [37m1200%[0m mental DMG and gives [37m2[0m stacks of [35m[Breaking Point][0m. [35m[Welding][0m decreases mental DEF by [37m2%[0m to a maximum of [37m100%[0m.
+
+[1;37mP2:[0m Ultimate triggers [31m[Sew It All Up][0m [37m2[0m times.
+
+[1;37mP3:[0m [31m[Sew It All Up][0m deals [37m500%[0m mental DMG. The extra DMG from [33m[Pulsing Field Lv. 2/3][0m becomes [37m300%/700%[0m.
+
+[1;37mP4:[0m The extra DMG per [34m[Electric Arc][0m or [34m[Flickering Arc][0m from [33m[Pulsing Field Lv. 2/3][0m becomes [37m8%[0m.
+
+[1;37mP5:[0m Both skills gives self 4[0m/[37m8[0m/[33m16[0m stacks of [34m[Electric Arc][0m, the maximum of [34m[Electric Arc][0m increases to [37m80[0m, and the maximum of [34m[Flickering Arc][0m increases to [37m320[0m.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
+
+[1;37mCorvus[0m
+[1;33mIntelligence, 6✦[0m
+[1;37mPsychube: Bitter March of the Living[0m
+
+[1;37m        ATK : [0m57  -> [1m380[0m
+[1;37m         HP : [0m390 -> [1m2600[0m
+[1;37mReality DEF : [0m24  -> [1m160[0m
+[1;37m Mental DEF : [0m24  -> [1m160[0m
+[1;37m  Crit Rate : [0m10% -> [1m16%[0m
+
+When attacking, if in [33m[Pulsing Field Lv. 3][0m, increase Ult Might by [37m12%/15%/18%/21%/24%[0m.
+When using a single-target incantation, increase DMG dealt by [37m1.4%/1.8%/2.2%/2.6%/3%[0m to a maximum of [37m6[0m stacks. This is removed when using a mass-target incantation.
+
+Boarding, taking off from the great Golden Horn.
+The sun cast west as it sinks into the Danube.
+Along the golden light, the railway plummets into the dark.
+A secret that no one knows,
+Starts from dusk and goes to dawn.
 
 [1mTranslation by ChunXiRavenClaw[0m
 [1mFormatting by iFailatDicksword[0m
