@@ -1,0 +1,39 @@
+[1;37mCorvus[0m
+[1;33mIntelligence, 6✦[0m
+[1;37mInsight:[0m
+
+[1;37mI1:[0m When entering battle, gains [34m[Amplified Surge][0m. After an active action, gain [33m[Dynamo][0m. At the start of the round, if not under a [33m[Pulsing Field][0m of any level, deploy [33m[Pulsing Field Lv. 1][0m. Ultimate does not take up the allied Incantation Draw Limit. When exiting [33m[Pulsing Field Lv. 3][0m, [34m[Arc Light][0m turns into [33m[Dynamo][0m and [34m[Trembling Arc][0m.
+
+[1;37mI2:[0m When entering battle, increase ATK.
+
+[1;37mI3:[0m When an enemy with [35m[High-Temp Welding][0m dies, inflict [35m[High-Temp Welding][0m to a random enemy, and also inflict them with the same number of stacks of [35m[Breaking Point][0m.
+
+[34m[Amplified Surge]:[0m When entering [33m[Pulsing Field Lv. 3][0m, increase self moxie. When in [33m[Pulsing Field Lv. 3][0m, increase max moxie and become immune to control effects.
+[34m[Trembling Arc]:[0m Increase ATK.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
+
+[1;37mCorvus[0m
+[1;33mIntelligence, 6✦[0m
+[1;37mSkills:[0m
+
+[1;31mS1: Twisted Arcs[0m
+Single mental DMG. Self gains [34m[Arc Light][0m. When hit, inflict [35m[Breaking Point][0m on the target.
+
+[34m[Arc Light]:[0m Increase ATK.
+[35m[Breaking Point]:[0m Consumed when hit with [31m[Forced Stitching][0m, and trigger an extra effect.
+
+[1;36mS2: Rose-Coloured Cracks[0m
+Self channel. Force the enemy target to enter [35m[High-Temp Welding][0m, and self enter [36m[Stitching][0m. If target is already in [35m[High-Temp Welding][0m, self gains [34m[Arc Light][0m and inflict [35m[Breaking Point][0m on the target.
+
+[35m[High-Temp Welding]:[0m Decrease mental DEF. After being attacked, Corvus gains [34m[Arc Light][0m; if the DMG source is mental, further decrease mental DEF and Corvus gains extra [34m[Arc Light][0m. [31m[Forced Stitching][0m will prioritize attacking those under [35m[High-Temp Welding][0m.
+[36m[Stitching]:[0m At the end of turn, trigger different [31m[Forced Stitching][0m depending on the level of [33m[Pulsing Field][0m.
+
+[1;31mUlt: Stitching the Ephemeral into Eternity[0m
+Single mental DMG. Inflict [35m[Breaking Point][0m on target, and trigger [31m[Forced Stitching][0m.
+
+[31m[Forced Stitching]:[0m Single mental DMG. Funnel [33m[Dynamo][0m into [33m[Pulsing Field][0m. This ATK is affected by Ult Might. Increase this attack's DMG gradually depending on the level of [33m[Pulsing Field][0m, and consume the target's [35m[Breaking Point][0m to let self gain [34m[Arc Light][0m/increase mental DMG dealt per [34m[Arc Light][0m/further increase mental DMG dealt per [34m[Arc Light][0m or [34m[Trembling Arc][0m, and this attack is further affected by Ult Might.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
