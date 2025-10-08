@@ -1,7 +1,10 @@
 [1;37mRubuska[0m
 [1;33mMineral, 6✦[0m
 [1;37mInsight: The Happy Pied Piper[0m
-[1;37mI1:[0m When any ally loses HP, accumulate [31m[Bloodtithe][0m. When Rubuska is in battle, give all allies [34m[Shadow Friend][0m. When any allies' [34m[Shadow Cloak][0m reaches maximum, Rubuska's moxie increases by [37m1[0m. Rubuska can store a total of [37m3[0m excess moxie, and if there is space at the end of turn, replenish her moxie.
+
+[1;37mI0:[0m When any ally loses HP, accumulate [31m[Bloodtithe][0m.
+
+[1;37mI1:[0m When Rubuska is in battle, give all allies [34m[Shadow Friend][0m. When any allies' [34m[Shadow Cloak][0m reaches maximum, Rubuska's moxie increases by [37m1[0m. Rubuska can store a total of [37m3[0m excess moxie, and if there is space at the end of turn, replenish her moxie.
 
 [1;37mI2:[0m When entering battle, increase max HP by [37m5%[0m.
 

@@ -2,9 +2,9 @@
 [1;35mSpirit, 6✦[0m
 [1;37mInsight: Trembling Brainwaves[0m
 
-[1;37mI1:[0m Receives [34m[Amplified Surge][0m. 
-If [33m[Pulsing Field][0m is not active at the start of turn, activate [33m[Pulsing Field Lv. 1][0m. At the end of turn, inject at least [37m20[0m [33m[Dynamo][0m into [33m[Pulsing Field][0m.
-For each overflowing [33m[Dynamo][0m, Charon acquires [37m1[0m [34m[Shock Wave][0m. For each overflowing moxie of all allies, Charon acquires [37m20[0m [34m[Shock Wave][0ms. When any enemy/ally dies, Charon acquires [37m20[0m/[37m40[0m [34m[Shock Wave][0ms. For every [37m40[0m [34m[Shock Wave][0m acquired, gain [37m1[0m stack of [34m[Consternation][0m which lasts for [37m4[0m turns.
+[1;37mI0:[0m Receives [34m[Amplified Surge][0m. If [33m[Pulsing Field][0m is not active at the start of turn, activate [33m[Pulsing Field Lv. 1][0m. At the end of turn, inject at least [37m20[0m [33m[Dynamo][0m into [33m[Pulsing Field][0m.
+
+[1;37mI1:[0m For each overflowing [33m[Dynamo][0m, Charon acquires [37m1[0m [34m[Shock Wave][0m. For each overflowing moxie of all allies, Charon acquires [37m20[0m [34m[Shock Wave][0ms. When any enemy/ally dies, Charon acquires [37m20[0m/[37m40[0m [34m[Shock Wave][0ms. For every [37m40[0m [34m[Shock Wave][0m acquired, gain [37m1[0m stack of [34m[Consternation][0m which lasts for [37m4[0m turns.
 
 [1;37mI2:[0m When entering battle, increase ATK by [37m5[0m.
 
