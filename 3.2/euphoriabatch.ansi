@@ -1,0 +1,69 @@
+[1;37m3.2 Euphoria[0m
+[1;37mIsolde[0m
+[1;37mSouls Flutter and Sleep[0m
+
+[1;37mRank I:[0m When any enemy is inflicted with [31m[Burn][0m or [31m[Halo][0m, accumulate [36m[Afterglow][0m. This cannot coexist with [31m[Bloodtithe][0m.
+[1;35m[Desired Freedom][0m lowers both reality and mental DEF.
+
+[1;37mRank II:[0m [1;35m[Choking on Blood][0m does not give [34m[Rousing Morale][0m to all allies. [34m[Finale][0m does not give [34m[Power Burst][0m to all allies.
+[34m[Interlude][0m gains the following effect: At the start of turn, gives all allies [34m[Acciaccatura][0m.
+[34m[Finale][0m gains the following effect: At the start of turn, gives all allies [34m[Appoggiatura][0m.
+
+- [34m[Acciaccatura]:[0m Increase DMG dealt for a certain number of turns.
+- [34m[Appoggiatura]:[0m Increase DMG dealt for a certain number of turns. For each certain number of [36m[Afterglow][0m, further increase DMG dealt to a maximum.
+
+[1;37mRank III:[0m [34m[Intermezzo][0m gains the following effect: When attacking, for every certain number of [31m[Burn][0m on the main target, increase incantation might of the [34m[Intermezzo][0m.
+If there are at least a certain number of [36m[Afterglow][0m, further increase incantation might. If there are at least a certain number of [36m[Afterglow][0m, further increase penetration rate of this attack.
+
+[1;37mRank IV:[0m [34m[Intermezzo][0m gains the following effects:
+For every certain number of [36m[Afterglow][0m when attacking, deal extra reality DMG. If there are at least some number of [36m[Afterglow][0m, increase self moxie.
+[34m[Prelude][Interlude][Finale][0m gains the following effect:
+The number of [36m[Afterglow][0m deducted at the start of turn will re-accumulate after the next [34m[Intermezzo][0m at a certain ratio.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
+
+[1;37m3.2 Euphoria[0m
+[1;37mAnjo Nala[0m
+[1;37mThe Sound of Extravagant Old Dreams[0m
+
+[1;37mRank I:[0m After a bound character does an FuA, strengthen binding, and both Anjo Nala and the character gains [34m[Legato Chorus][0m. [34m[Legato Chorus][0m can stack and will buff the characters based on the type of binding.
+
+- [37m[[33mMind [37mand [35mFlesh[37m]:[0m Increase ATK.
+- [37m[[32mBone [37mand [31mBlood[37m]:[0m Increase Ult Might.
+- [37m[[33mForm[37m and [34mPhantom[37m]:[0m Increase DMG dealt by FuAs.
+
+[1;37mRank II:[0m When releasing [1;36m[Interwoven Dreams][0m, the bound ally loses less HP. When strengthening a binding, Anjo Nala gains moxie and [34m[Ceremonious - Crit DMG][0m. If the binding is [37m[[32mBone [37mand [31mBlood[37m][0m, receives extra [34m[Ceremonious - Crit DMG][0m.
+
+[1;37mRank III:[0m After [1;36m[Interwoven Dreams][0m is released, after the attack, gain [34m[Echoing End][0m, which makes [1;35m[Feast of Lust][0m and [1;35m[Angel's Temptation][0m deal extra mental DMG.
+
+[1;37mRank IV:[0m [34m[Legato Chorus][0m gains the following effects:
+After a certain number of stacks, [1;36m[Interwoven Dreams][0m will no longer cost AP or count towards the Spelldock limit, as well as increase self moxie after action and other extra effects based on the type of binding:
+
+- [37m[[33mMind [37mand [35mFlesh[37m]:[0m [1;35m[Feast of Lust][0m deals extra mental DMG and reduce the duration of [36m[Hymn][0m.
+- [37m[[32mBone [37mand [31mBlood[37m]:[0m [1;36m[Interwoven Dreams][0m deals extra mental DMG and the effect of Ult Might on [1;36m[Interwoven Dreams][0m is strengthened.
+- [37m[[33mForm[37m and [34mPhantom[37m]:[0m When [1;35m[Angel's Temptation][0m is triggered, overflowing crit rate turns into crit DMG, and deals extra mental DMG.
+
+[1;37m3.2 Euphoria[0m
+[1;37mKaalaa Baunaa[0m
+[1;37mI See The Universe[0m
+
+[1;37mRank I:[0m [1;31m[Enchanted Strike][Mythical Meteors][0m deal extra mental DMG. [1;31m[Ultimate Perfection][0m deals extra mental DMG. When actively releasing [1;31m[Enchanted Strike][Mythical Meteors][0m, it counts as an FuA.
+
+[1;37mRank II:[0m At the start of turn, acquire the maximum amount of [33m[Saturn][0m.
+[33m[Saturn][0m[34m[Saturn Divination][0m further increases crit rate.
+[31m[Mars][0m[34m[Mars Divination][0m further increases DMG dealt.
+
+[1;37mRank III:[0m When Kaalaa Baunaa removes a [34m[Planet][0m using an incantation or an Ultimate, trigger the following effects based on the type and number of [34m[Planet][0ms removed:
+
+- When a certain number of [33m[Saturn][0m is removed: Release the corresponding rank of [1;31m[Enchanted Strike][0m to follow-up, and deal extra mental DMG.
+- When a certain number of [31m[Mars][0m is removed: Release the corresponding rank of [1;31m[Mythical Meteors][0m to follow-up, and deal extra mental DMG.
+- When a certain number of [37m[Full Moon][0m is removed: Gain a number of stacks of [34m[Frozen Radiance][0m.
+[34m[Frozen Radiance]:[0m Increase Ult Might and FuA DMG. This can be stacked to a maximum, and cannot be dispelled.
+
+[1;37mRank IV:[0m Insight III gains the following:
+After casting the Ultimate, gain 1 effect based on the [34m[Planet][0m with the largest number removed:
+
+- When removing a certain number of [33m[Saturn][0m: at the start of next turn, generate a corresponding rank of [1;31m[Preparation - Enchanted Strike][0m.
+- When removing a certain number of [31m[Mars][0m: at the start of next turn, generate a corresponding rank of [1;31m[Preparation - Mythical Meteors][0m.
+- When removing a certain number of [37m[Full Moon][0m: Gives self the corresponding stacks of [34m[Full Moon Divination][0m.
