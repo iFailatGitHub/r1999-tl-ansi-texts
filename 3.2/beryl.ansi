@@ -1,0 +1,64 @@
+[1;37mBeryl (LIMITED!)[0m
+[1;33mIntelligence, 6✦[0m
+[1;37mInsight: Multiple Refractions[0m
+
+[1;37mI0:[0m When entering battle, choose an Emanation Combination.
+When entering battle, receives [34m[Spotlight][0m. For every certain stacks of [36m[Afterglow][0m gained, receives [31m[Ineluctabile Factum][0m.
+
+[1;37mI1:[0m When entering battle, receives [34m[Upper Refraction][0m. At the start of the second round, Beryl receives [37m[Colorful Emanation][0m. The more a corresponding Emanation is acquired, the higher the chance Beryl gets a high-rank [37m[Colorful Emanation][0m.
+
+[1;37mI2:[0m When entering battle, increase crit rate.
+
+[1;37mI3:[0m When entering battle, increase self moxie, and the [36m[Afterglow][0m from [34m[Spotlight][0m increases. At the end of turn, when [36m[Afterglow][0m reaches a certain amount, increase self moxie.
+
+- [34m[Spotlight]:[0m When any enemy is inflicted with [31m[Burn][0m or [31m[Halo][0m, increase [36m[Afterglow][0m. The fewer enemies there are, the more [36m[Afterglow][0m increases. At the start of turn, increase crit rate for all allies for this round based on [36m[Afterglow][0m.
+- [31m[Ineluctabile Factum]:[0m Mass mental DMG to all enemies. Deal extra mental DMG to the enemy with the highest stacks of [31m[Halo][0m. Different Emanations will give extra effects to this attack.
+- [34m[Upper Refraction]:[0m Forcefield. Different Emanations will give different effects.
+- [37m[Colorful Emanation]:[0m Different Emanations will give different effects.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
+
+[1;37mBeryl (LIMITED!)[0m
+[1;33mIntelligence, 6✦[0m
+[1;37mEmanation Combination[0m
+
+Choose several Emanations at the start of battle.
+
+[1;34mBlue:[0m
+- [31m[Ineluctabile Factum][0m has a certain chance to trigger again. This counts as an FuA.
+- [34m[Upper Refraction][0m adds the following effect: Follow-Up Attacks will inflict [31m[Halo][0m on targets.
+- [37m[Colorful Emanation][0m adds the following effect: The counter for Beryl to trigger [31m[Ineluctabile Factum][0m increases.
+
+[1;31mPink:[0m
+- [31m[Ineluctabile Factum][0m deals extra mental DMG based on [36m[Afterglow][0m.
+- [34m[Upper Refraction][0m adds the following effect: Active attacks inflict [31m[Halo][0m on target.
+- [37m[Colorful Emanation][0m adds the following effect: Beryl gains [34m[Precognition][0m.
+
+[1;32mGreen:[0m
+- [31m[Ineluctabile Factum][0m deals extra mental DMG and increases its rank.
+- [34m[Upper Refraction][0m adds the following effect: If an attack is rank 2/3, inflict [31m[Halo][0m on target.
+- [37m[Colorful Emanation][0m adds the following effect: Increase the rank of subsequent incantations in the AP area.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
+
+[1;37mBeryl (LIMITED!)[0m
+[1;33mIntelligence, 6✦[0m
+[1;37mSkills[0m
+
+[1;31mS1: Lens Calamity[0m
+Single mental DMG. If the target has fewer than a certain number of [31m[Halo][0m, or if there is no other enemies, inflict [31m[Halo][0m; otherwise, inflict [31m[Halo][0m on other enemies.
+
+- [31m[Halo]:[0m Decrease healing received. At the end of turn, take genesis DMG. When triggered, consume half of the [31m[Halo][0m stacks.
+
+[1;34mS2: An Unsuprised Moment[0m
+Self buff. Gives [34m[Precognition][0m on self.
+
+- [34m[Precognition]:[0m Decrease the number of [36m[Afterglow][0m needed to trigger [31m[Ineluctabile Factum][0m.
+
+[1;37mUlt: The Shimmering Night[0m
+Mass mental DMG to all enemies. Reorder the number of [31m[Halo][0m on enemies based on their current HP.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
