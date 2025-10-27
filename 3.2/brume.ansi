@@ -1,0 +1,45 @@
+[1;37mBrume[0m
+[1;31mBeast, 6✦[0m
+[1;37mInsight: Elements of Heroism[0m
+
+[1;37mI0:[0m When entering battle, gains [34m[Amplified Surge][0m. When entering battle, gains [33m[Dynamo][0m. At the start of the round, if not under a [33m[Pulsing Field][0m of any level, deploy [33m[Pulsing Field Lv. 1][0m. At the end of turn, receives [33m[Dynamo][0m and funnel it into [33m[Pulsing Field][0m. Ultimate does not take up the allied Incantation Draw Limit.
+
+[1;37mI1:[0m At the start of turn/When a certain number of [33m[Dynamo][0m is funneled into [33m[Pulsing Field][0m/When enemies have a certain number of [31m[Burn][0m, gain [34m[Thermoelectric Effect][0m.
+
+[1;37mI2:[0m When entering battle, increase DMG dealt.
+
+[1;37mI3:[0m When entering battle, Brume gives herself [34m[Piezoelectricity][0m. When Brume reaches a certain number of [34m[Thermoelectric Effect][0m, gain [33m[Dynamo][0m and increase moxie on self. When the channel [36m[Gem Charging][0m ends, if at least a certain number of [34m[Thermoelectric Effect][0m is consumed, follow-up with [31m[Destination Fare][0m. If more [34m[Thermoelectric Effect][0m is consumed, [31m[Destination Fare][0m deals more mental DMG.
+
+- [34m[Amplified Surge]:[0m When entering [33m[Pulsing Field Lv. 3][0m, increase [34m[Thermoelectric Effect][0m and extend the duration of [34m[Piezoelectricity][0m. When in [33m[Pulsing Field Lv. 3][0m, [31m[Scenery Cost][0m deals more mental DMG.
+- [31m[Destination Fare]:[0m Mass mental DMG to all enemies. After attacking, inflict [31m[Burn][0m. This attack is affected by Ultimate Might.
+
+[1mTranslation by ChunXiRavenClaw[0m
+[1mFormatting by iFailatDicksword[0m
+
+[1;37mBrume[0m
+[1;31mBeast, 6✦[0m
+[1;37mSkills[0m
+
+[1;37mS1:[0m
+Choose between [1;31m[Spontaneous Trip][0m and [1;36m[Long-Distance Plan][0m.
+
+[1;31mS1-1: Spontaneous Trip[0m
+Single mental DMG. After attacking, gain [34m[Piezoelectricity][0m.
+
+- [34m[Piezoelectricity]:[0m [1;31m[Spontaneous Trip][0m and [31m[Destination Fare][0m deals more mental DMG.
+
+[1;36mS1-2: Long-Distance Plan[0m
+Self channel. Gain [34m[Thermoelectric Effect][0m and enter [36m[Gem Charging][0m.
+
+- [36m[Gem Charging]:[0m If still in this channel at the end of turn, release [31m[Scenery Cost][0m. Consume as much [34m[Thermoelectric Effect][0m as possible to increase the mental DMG and number of attacks for [31m[Scenery Cost][0m.
+[31m[Scenery Cost]:[0m Single mental DMG. After attacking, inflict [31m[Burn][0m. This attack is affected by Ultimate Might.
+
+[1;34mS2:[0m
+Mass buff. Self gains [34m[Thermoelectric Effect][0m and all allies gain [34m[Truth Tempering][0m.
+
+[34m[Truth Tempering]:[0m Increase DMG dealt and Incantation Might. After attacking, inflict [35m[Disguise Dissolution][0m on target.
+[35m[Disguise Dissolution]:[0m Deacrease crit DEF and crit resist.
+
+[1;31mUlt:[0m
+Single mental DMG, and self gains [34m[Thermoelectric Effect][0m. Increase duration of [34m[Piezoelectricity][0m, and after attacking, inflict target with [31m[Burn][0m and [35m[Stowaway][0m.
+[35m[Stowaway][0m: [31m[Scenery Cost][0m will prioritize attacking enemies with this status.
